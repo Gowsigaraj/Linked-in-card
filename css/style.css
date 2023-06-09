@@ -97,14 +97,17 @@
 
 .agree{
 	text-decoration:none;
-	font-size:16px;
-	color:#a89f9d;
+	font-size:18px;
+	color:black;
+	font-family: 'Crimson Pro', serif;
 }
 .user{
 display:flex;
 justify-content:center;
 gap:20px;
 padding-top:20px;
+
+
 }
 .in{
     text-decoration: none;
@@ -153,14 +156,16 @@ color:#9aa3a3;
 	margin-left:20px;
 }
 .now{
-	font-size:16px;
+	font-size:18px;
 	text-align:center;
 	padding-top:20px;
+	font-family: 'Crimson Pro', serif;
 }
 .joinnow{
 	text-decoration:none;
-	font-size:16px;
+	font-size:18px;
 	padding-top:20px;
+	font-family: 'Crimson Pro', serif;
 	
 }
 
