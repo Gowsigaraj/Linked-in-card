@@ -2,6 +2,7 @@
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
+	font-family: 'Poppins', sans-serif;
 }
 .container{
 	width:1240px;
@@ -20,14 +21,33 @@
 	border-radius:5px;
 	
 }
+.forms1{
+	padding-top:20px;
+}
+.forms2{
+	padding-top:20px;
+}
+.forms3{
+	padding-top:20px;
+}
+.forms4{
+	padding-top:20px;
+}
+.forms5{
+	padding-top:20px;
+}
+.forms6{
+	padding-top:20px;
+}
 .link{
 	color:#2682ac;
+	font-size:30px;
 	
 }
 
 .goo{
 	text-decoration:none;
-	font-size:20px;
+	font-size:16px;
 	display:inline-block;
 	border:1px solid black;
 	width:300px;
@@ -36,6 +56,7 @@
 	border-radius:30px;
 	margin:10px 0px;
 	text-align:center;
+	color:black;
 }
 .button a{
 	display:flex;
@@ -46,9 +67,9 @@
 }
 .shows{
 	text-decoration:none;
-	font-size:20px;
+	font-size:16px;
 	position:absolute;
-	top:286px;
+	top:280px;
 	left:55%;
 	color:#5577b1;
 }
@@ -70,20 +91,20 @@
 	top:6px;
 	left:130px;
 	display:inline;
-	font-size:15px;
+	font-size:16px;
+
 }
 
 .agree{
 	text-decoration:none;
-	font-size:18px;
+	font-size:16px;
 	color:#a89f9d;
 }
 .user{
 display:flex;
 justify-content:center;
-align-items:center;
-gap:10px;
-width:1000px;
+gap:20px;
+padding-top:20px;
 }
 .in{
     text-decoration: none;
@@ -100,14 +121,16 @@ width:1000px;
 
 }
 .fp{
-font-size:20px;
+font-size:16px;
 color:#6383ad;
 text-decoration:none;
+padding-top:20px;
 }
 .sign{
 font-weight:bold;
-font-size:40px;
+font-size:30px;
 margin-bottom:10px;
+padding-top:20px;
 }
 .stay{
 font-size:15px;
@@ -124,17 +147,20 @@ color:#9aa3a3;
 	border-bottom:1px solid;
 	width:300px;
 	position:relative;
+	padding-top:20px;
 }
 .main_container{
-	margin-left:20px;;
+	margin-left:20px;
 }
 .now{
-	font-size:20px;
+	font-size:16px;
 	text-align:center;
+	padding-top:20px;
 }
 .joinnow{
 	text-decoration:none;
-	font-size:20px;
+	font-size:16px;
+	padding-top:20px;
 	
 }
 
